@@ -20,6 +20,7 @@ README
 t/00_compile.t
 t/01_connect_info.t
 t/02_load.t
+t/04-strategy_roundrobin.t
 t/db.conf.yaml
 xt/01_podspell.t
 xt/02_perlcritic.t
