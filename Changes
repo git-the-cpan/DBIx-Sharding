@@ -1,4 +1,13 @@
 Revision history for Perl extension DBIx::Sharding
 
-0.01    Thu Aug 13 05:01:13 2009
+0.04    Thu Aug 26 11:11:00 2009
+        - Modify timestamp..
+
+0.03    Thu Aug 25 21:00:00 2009
+        - Fixed correct round robin logic.
+
+0.02    Thu Aug 25 20:00:00 2009
+        - Fixed pod.
+
+0.01    Thu Aug 25 19:00:00 2009
         - original version
